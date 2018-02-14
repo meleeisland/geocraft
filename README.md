@@ -11,7 +11,7 @@ This software uses Perl and is dependent on the following module:
 
 You'll need to ensure those are installed before using the software. To check you can use:
 
-perl -MArchive::ZIP -e 'print "OK\n";'
+perl -MArchive::Zip -e 'print "OK\n";'
 
 Which will say "OK" if it's installed, and otherwise will report an error.
 
